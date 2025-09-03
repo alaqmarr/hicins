@@ -1,8 +1,8 @@
 import React from 'react';
-import BreadCumb from '../Components/Common/BreadCumb';
-import Services2 from '../Components/Services/Services2';
-import Cta from '../Components/Services/Cta';
-import Pricing from '../Components/Home/Pricing';
+import BreadCumb from '../../app/Components/Common/BreadCumb';
+import Services2 from '../../app/Components/Services/Services2';
+import Cta from '../../app/Components/Services/Cta';
+import Pricing from '../../app/Components/Home/Pricing';
 
 const page = () => {
     return (
