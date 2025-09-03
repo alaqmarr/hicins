@@ -1,0 +1,23 @@
+[
+  {
+    "bgImg": "/assets/img/tools.jpg",
+    "subTitle": "Instruments",
+    "title": "Cooling expertise you can trust",
+    "desc": "Air conditioning emergencies can happen at any time Our Cool Care Emergency Service is available 24/7 to address", 
+    "link": "/about"
+  },
+  {
+    "bgImg": "/assets/img/pneumatics.jpg",
+    "subTitle": "Pneumatics",
+    "title": "Fast & Reliable AC Fixes Hub",
+    "desc": "Common signs of AC problems include unusual noises, reduced airflow, uneven cooling, strange odors, and unexpectedly higher energy bills.",  
+    "link": "/about"
+  },
+  {
+    "bgImg": "/assets/img/hydraulics.jpg",
+    "subTitle": "Hydraulics",
+    "title": "Expert Cooling Solutions",
+    "desc": "Watch for unusual noises, reduced airflow, uneven cooling, strange odors, and higher energy bills as common signs of AC issues.", 
+    "link": "/about"
+  }
+]
