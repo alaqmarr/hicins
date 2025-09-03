@@ -3,7 +3,7 @@ import BlogData from '../../Data/blog.json';
 import Form2 from "../Form/Form2";
 import Image from 'next/image';
 
-const BlogDetails = () => {
+const BlogDetails = ({product}) => {
 
     const BlogCategory = [
         {title:'BreezeCheck Maintenance', link:'/blog/blog-details'},

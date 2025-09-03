@@ -3,8 +3,8 @@ import BlogDetails from '../../../Components/BlogDetails/BlogDetails';
 const page = () => {
     return (
         <div className='blog-detail'>
-            <BreadCumb Title="Blog Details"></BreadCumb>
-            <BlogDetails></BlogDetails>
+            <BreadCumb Title="Products Details"></BreadCumb>
+            <BlogDetails product={product}></BlogDetails>
         </div>
     );
 };
